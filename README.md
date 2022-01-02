@@ -155,8 +155,9 @@ Initially, run `npm init` and `npm i` in the terminal to download all node modul
 - jquery
 
 ## To test the different functionalities, you can:
-- try signing up, signing in, opening your profile, changing your personal details
-- try searching for a flight going from Cairo (code: CAI) to Canada (code: YYZ) with departure date 10/01/2022 and arrival date 22/01/2022, choose a departure and return flight, choose your seats and checkout with the dummy card number: 4242 4242 4242, expiry: 12/25, cvv: 123.
+- try signing up, signing in, opening your profile.
+- try searching for a flight going from Cairo (code: CAI) to Canada (code: YYZ) with departure date 10/01/2022 and arrival date 22/01/2022, choose a departure and return flight.
+(Please email us at winter21team@gmail.com or maryam.eloraby@gmail.com to send you a .env file required to test further functionalities)
 
 # Database
  To provide database access for Kite Air, we used mongoose (a MongoDB object modeling tool designed to work in an asynchronous environment).
